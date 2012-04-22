@@ -299,13 +299,6 @@ footer span.right-tail {
   right: 0;
 }
 
-footer span.octocat {
-  background: transparent url(../images/octocat-2x.png) 0 0 no-repeat;
-  display: block;
-  width: 60px;
-  height: 60px;
-  margin: 20px auto 0;}
-
 /* content */
 
 body {
